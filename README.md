@@ -39,3 +39,5 @@ The SuperStore Sales project in Tableau is a comprehensive data visualization pr
    - Add tooltips, filters, and actions to enhance the user experience.
 
 The project ultimately aims to provide actionable insights into SuperStore's sales performance, helping stakeholders make informed decisions to improve sales strategies, optimize inventory, and enhance customer satisfaction.
+The link to visit the TABLEAU DASHBOARD
+https://public.tableau.com/app/profile/aditi.agrawal5264/viz/SuperStore_Sales_Analysis_17222534748660/SuperStoreSalesAnalysisDashboard?publish=yes
